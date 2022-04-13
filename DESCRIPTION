@@ -1,6 +1,6 @@
 Package: Dasst
-Version: 0.3.3
-Date: 2017-11-12
+Version: 0.3.4
+Date: 2022-04-09
 Title: Tools for Reading, Processing and Writing 'DSSAT' Files
 Authors@R: c(person("Homero", "Lozza", role = c("aut", "cre"),
     email = "homerolozza@gmail.com"))
@@ -20,6 +20,6 @@ Collate: 'Class-Dasst.R' 'Dasst-methods.R' 'Dasst.R' 'dasstOptions.R'
         'extractData.R' 'extractHeader.R' 'buildContents.R' 'data.R'
         'gatherTables.R' 'read.dssat.R' 'stackTables.R' 'write.dssat.R'
 NeedsCompilation: no
-Packaged: 2017-11-12 19:11:16 UTC; lozza
+Packaged: 2022-04-13 21:42:09 UTC; lozza
 Repository: CRAN
-Date/Publication: 2017-11-13 11:37:10 UTC
+Date/Publication: 2022-04-13 22:32:28 UTC
